@@ -1,0 +1,14 @@
+:root {
+    --bg-color: #CFDDD5; 
+    --toolbar-font: 'Caveat', cursive;
+}
+.Gallery {
+    background-color: var(--bg-color);
+}
+.Title {
+    padding: 40px 0;
+    margin: 0;
+    text-align: center;
+    font-size: 2.5em;
+    font-family: var(--toolbar-font);
+}
