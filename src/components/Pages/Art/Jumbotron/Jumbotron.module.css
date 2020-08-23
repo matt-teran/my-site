@@ -1,0 +1,12 @@
+:root{
+    --background-color1: #BFA80F;
+    --background-color2: #F777C8;
+}
+
+.Jumbotron {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background: linear-gradient(45deg, var(--background-color1), var(--background-color2));
+}
