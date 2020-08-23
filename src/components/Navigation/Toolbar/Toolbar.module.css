@@ -1,0 +1,14 @@
+.Toolbar {
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+}
+.NavLinks {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+.Logo {
+    position: relative;
+    left: 0;
+}
